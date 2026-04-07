@@ -1,4 +1,4 @@
-# ✅ To-Do List App
+# To-Do List App
 
 A simple and efficient To-Do List application built using **HTML, CSS, and JavaScript**.
 This app helps users manage daily tasks by adding, completing, and deleting items.
@@ -7,8 +7,6 @@ This app helps users manage daily tasks by adding, completing, and deleting item
 Live Demo
 
 (Add your GitHub Pages link here)
-
----
 
 Screenshot
 
