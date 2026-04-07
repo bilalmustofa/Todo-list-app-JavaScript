@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;  
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
     height: 100vh;
@@ -57,4 +58,26 @@ body {
       margin-top: 50px;
       border-radius: 5px;
       width: 100%;
+}
+
+.single-task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #d1d3d4;
+    margin: 10px 0;
+    padding: 10px;
+    cursor: pointer;
+}
+.single-task span {
+    font-weight: bold; 
+}
+.single-task button {
+     background-color: #8052ec;
+     border: none;
+     border-radius: 5px;
+     height: 30px;
+     color: white;
+     cursor: pointer;
+     padding: 5px;
 }
