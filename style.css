@@ -71,6 +71,7 @@ body {
 }
 .single-task span {
     font-weight: bold; 
+    font-size: 13px;
 }
 .single-task button {
      background-color: #8052ec;

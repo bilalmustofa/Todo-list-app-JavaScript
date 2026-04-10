@@ -15,7 +15,7 @@ addBtn.addEventListener('click', () => {
         // create span tag in to 'taskListDiv' for task Name
         const taskNameSpan = document.createElement('span');
         taskNameSpan.id = "taskName"
-        taskNameSpan.textContent = taskInputValue;
+        taskNameSpan.textContent =taskInputValue;
         // create delete button tag in 'taskListDiv' 
         const deleteBtn = document.createElement('button');
         deleteBtn.className = "delete";
